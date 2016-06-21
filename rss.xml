@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[stereoaudiosystems]]></title>
-        <description><![CDATA[stereoaudiosystems]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Specialist retailer of music systems]]></title>
+        <description><![CDATA[Specialist retailer of music systems]]></description>
+        <link>https://thegrid.ai/stereoaudiosystems/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 12:29:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 13:19:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stereoaudiosystems/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Turntables</p>]]></description>
-            <link>undefinedturntables/index.html</link>
+            <link>https://thegrid.ai/stereoaudiosystems/turntables/index.html</link>
             <guid isPermaLink="false">c859aa43-46c1-406c-850e-e94d6c26c63d</guid>
-            <pubDate>Tue, 21 Jun 2016 12:29:40 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 13:18:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
