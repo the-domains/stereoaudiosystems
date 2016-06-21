@@ -1,6 +1,6 @@
 name: stereoaudiosystems
 favicon: null
-layout_spectrum: 0.57936
+layout_spectrum: 0.15583
 typography_spectrum: 0.74099
 title: Specialist retailer of music systems
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f29400'
     - '#8e8f90'
     - '#bebec0'
-  brandStrength: 0.6346642416901886
-  lightness: 0.09060411667451262
-  saturation: 0.5381144967395812
-  rhythmicContrast: 0.9894989868625998
+  brandStrength: 0.625
+  lightness: 0.125
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
